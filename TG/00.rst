@@ -1,0 +1,45 @@
+Technische Grundlagen der Informatik
+====================================
+
+*Vorbesprechung*
+
+Inhalte der Lehrveranstaltung
+=============================
+
+Darsetellung von Zahlen im Computern
+Codierungstheorie
+
+Digitale Schaltungstechnick
+Schaltnetze
+
+Speicherglieder und Speicher
+Synthese und Analyse von Schaltwerken ( Automaten Theorie )
+
+Prozessorarchitektur - Adressierungsarten, Befehlssatz und Pipelining - Speicherverwaltung
+
+Ein-/Ausgabe und Peripheriegeräte
+
+Test
+====
+Fr. 04.11.2016 16 uhr  30.0.2016 20:00 Tuwel anmeldung
+Fr. 16.12.2016 16 uhr
+Fr. 20.01.2017 16 uhr
+Fr. 03.02.2017 10 uhr
+
+
+Übungen
+=======
+8
+Phase 1:
+- Ü1 Fr. 21.10.2016, 10 Uhr
+Abgabe 20.10.2016 13 Uhr
+- Ü2 Fr. 28.10.2016, 10 Uhr
+Abgabe 27.10.2016 13 Uhr
+
+Phase 2:
+    Anmeldung in TISS 14.11.2016, 20:00 Uhr - 20.11.2016, 23:59 Uhr
+
+Ablauf:
+    1 pdf pro übung
+
+
