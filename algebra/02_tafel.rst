@@ -1,21 +1,24 @@
-*****************
+*************
 Rechnen in ℕ
-*****************
+*************
 
 Adition
+=======
 
-n *e* ℕ
-n+0=n,
-n+1=n' (nachfolger)
-n+1'=n+2=(n+1)'=n''
-n+k'=(n+k)'
+n ∈ ℕ
+n + 0 = n,
+n + 1 = n'
+    n' ist der nachfolger
+n + 1' = n + 2 = (n + 1)' = n''
+n + k' = (n + k)'
 
 Multiplikation
+==============
 
-0*n=0,1*n=n,2*n=n+n,k'* n=kn+n
+0 * n = 0, 1 * n = n, 2 * n = n + n, k'* n = k * n + n
 
 
-sei n m und k *e* aus ℕ Dann gilt
+sei n m und k ∈ aus ℕ Dann gilt
 
 Satz steht immer für Lehrsatz in der Mathematik
 
@@ -46,7 +49,7 @@ n + x = m => x = { m-n falls n <= m
                    -(n-m) falls n>m }
 
 
-n *e* aus ℕ -> -n
+n ∈ aus ℕ -> -n
 
 Addition (-m) + (-n) = - (m+n)
          m + (-n) = (-n) +m = { m-n falls 0 <= n <= m
@@ -57,7 +60,7 @@ Addition (-m) + (-n) = - (m+n)
 ny = m => y = m/n, r=m/n, s= x/y, r+s=…
                                   r*s=…
 
-*Z*  (teilmenge) *Q* = { n/n | n *e* ℕ \ {0}, m *e* *Z*}
+*Z*  (teilmenge) *Q* = { n/n | n ∈ ℕ \ {0}, m ∈ *Z*}
 
                         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -65,7 +68,7 @@ r = m/n, 1/r = n/mn     –, -3, -2, -1, 0, 1, 2, 3, …
 r = m/n, s = x/y:       r < s <=> y < n * x
 
 (wie liegen die Zahelen auf der geraden?)
-dicht: r, s *e* *Q*, r < s => r < r+s / 2 < s
+dicht: r, s ∈ *Q*, r < s => r < r+s / 2 < s
 (jedes noch so kleines interval enthält unendlich viele rationale zahlen)
 
 Satz: x² = 2 ist unlösbar über *Q* (wurzel 2 ist irrational)
