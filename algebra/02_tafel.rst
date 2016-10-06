@@ -20,7 +20,7 @@ Multiplikation
 0 * n = 0, 1 * n = n, 2 * n = n + n, k'* n = k * n + n
 
 
-Satz: sei n m und k ∈  ℕ dann gilt
+Satz: sei n, m und k ∈  ℕ dann gilt
 
     Satz steht immer für Lehrsatz in der Mathematik
 
