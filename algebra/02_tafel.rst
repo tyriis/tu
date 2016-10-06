@@ -1,10 +1,10 @@
 *****************
-1) Rechnen in *N*
+Rechnen in ℕ
 *****************
 
 Adition
 
-n *e* *N*
+n *e* ℕ
 n+0=n,
 n+1=n' (nachfolger)
 n+1'=n+2=(n+1)'=n''
@@ -15,7 +15,7 @@ Multiplikation
 0*n=0,1*n=n,2*n=n+n,k'* n=kn+n
 
 
-sei n m und k *e* aus *N* Dann gilt
+sei n m und k *e* aus ℕ Dann gilt
 
 Satz steht immer für Lehrsatz in der Mathematik
 
@@ -46,7 +46,7 @@ n + x = m => x = { m-n falls n <= m
                    -(n-m) falls n>m }
 
 
-n *e* aus *N* -> -n
+n *e* aus ℕ -> -n
 
 Addition (-m) + (-n) = - (m+n)
          m + (-n) = (-n) +m = { m-n falls 0 <= n <= m
@@ -57,7 +57,7 @@ Addition (-m) + (-n) = - (m+n)
 ny = m => y = m/n, r=m/n, s= x/y, r+s=…
                                   r*s=…
 
-*Z*  (teilmenge) *Q* = { n/n | n *e* *N* \ {0}, m *e* *Z*}
+*Z*  (teilmenge) *Q* = { n/n | n *e* ℕ \ {0}, m *e* *Z*}
 
                         ____________________________
 r = m/n, 1/r = n/mn     –, -3, -2, -1, 0, 1, 2, 3, …
