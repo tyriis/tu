@@ -95,5 +95,7 @@ x² = a² / b² = 2 => a² = 2 * b² => a² ist eine gerade Zahl
 
 => a gerade => a = 2c
 => a² = 2b² <=> 4c² = 2b² <=> 2c² = b²
-=> b² und damit auch b sind gerade ↯ (Widerspruch weil ggT (a / b) = 1 = ungerade)
+=> b² und damit auch b sind gerade ↯
+
+    (Widerspruch weil ggT (a / b) = 1 = ungerade)
 
