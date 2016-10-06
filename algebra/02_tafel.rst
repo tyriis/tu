@@ -83,15 +83,15 @@ Satz: x² = 2 ist unlösbar über ℚ
 
 Annahme: ∃ x = a / b : x² = 2
 
-| 4 / 6 = 2 / 3
-| ggT (a/b) = 1, größtmöglich gekürzt kein gemeinsamer Teiler ausser 1
+    | 4 / 6 = 2 / 3
+    | ggT (a/b) = 1, größtmöglich gekürzt kein gemeinsamer Teiler ausser 1
 
 x² = a² / b² = 2 => a² = 2 * b² => a² ist eine gerade Zahl
 
-| *was ist eine gerade Zahl?*
-| (2k) * (2m) = 4km => ist gerade weil sie ein vielfaches von 4 ist
-| (2k + 1) * (2m + 1) = 4km +2m +1 => ist ungerade da etwas grade +1 immer ungerade ist
-| daraus folgt gerade - gerade = gerade, ungerade * ungerade = ungerade
+    | *was ist eine gerade Zahl?*
+    | (2k) * (2m) = 4km => ist gerade weil sie ein vielfaches von 4 ist
+    | (2k + 1) * (2m + 1) = 4km +2m +1 => ist ungerade da etwas grade +1 immer ungerade ist
+    | daraus folgt gerade - gerade = gerade, ungerade * ungerade = ungerade
 
 => a gerade => a = 2c
 => a² = 2b² <=> 4c² = 2b² <=> 2c² = b²
