@@ -66,11 +66,11 @@ ny = m => y = m / n, r = m / n, s = x / y, r + s = …, r * s = …
 r = m / n, 1 / r = n / mn     …, -3, -2, -1, 0, 1, 2, 3, …
 r = m / n, s = x / y:       r < s <=> y < n * x
 
-    wie liegen die Zahelen auf der geraden?
+    wie liegen die Zahlen auf der geraden?
 
 (Sie liegen) dicht: r, s ∈ ℚ, r < s => r < r + s / 2 < s
 
-    jedes noch so kleines Interval enthält unendlich viele rationale zahlen
+    jedes noch so kleine Interval enthält unendlich viele rationale zahlen
 
 Satz: x² = 2 ist unlösbar über ℚ
 
@@ -83,15 +83,15 @@ Satz: x² = 2 ist unlösbar über ℚ
 
 Annahme: ∃ x = a / b : x² = 2
 
-    | 4 / 6 = 2 / 3
-    | ggT (a/b) = 1, größtmöglich gekürzt kein gemeinsamer Teiler ausser 1
+| 4 / 6 = 2 / 3
+| ggT (a/b) = 1, größtmöglich gekürzt kein gemeinsamer Teiler ausser 1
 
- x² = a² / b² = 2 => a² = 2 * b² => a² ist eine gerade Zahl
+x² = a² / b² = 2 => a² = 2 * b² => a² ist eine gerade Zahl
 
-    | *was ist eine gerade Zahl?*
-    | (2k) * (2m) = 4km => ist gerade weil sie ein vielfaches von 4 ist
-    | (2k + 1) * (2m + 1) = 4km +2m +1 => ist ungerade da etwas grade +1 immer ungerade ist
-    | daraus folgt gerade - gerade = gerade, ungerade * ungerade = ungerade
+| *was ist eine gerade Zahl?*
+| (2k) * (2m) = 4km => ist gerade weil sie ein vielfaches von 4 ist
+| (2k + 1) * (2m + 1) = 4km +2m +1 => ist ungerade da etwas grade +1 immer ungerade ist
+| daraus folgt gerade - gerade = gerade, ungerade * ungerade = ungerade
 
 => a gerade => a = 2c
 => a² = 2b² <=> 4c² = 2b² <=> 2c² = b²
