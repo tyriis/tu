@@ -59,7 +59,8 @@ ny = m => y = m/n, r=m/n, s= x/y, r+s=…
 
 *Z*  (teilmenge) *Q* = { n/n | n *e* ℕ \ {0}, m *e* *Z*}
 
-                        ____________________________
+                        \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 r = m/n, 1/r = n/mn     –, -3, -2, -1, 0, 1, 2, 3, …
 r = m/n, s = x/y:       r < s <=> y < n * x
 
@@ -69,7 +70,7 @@ dicht: r, s *e* *Q*, r < s => r < r+s / 2 < s
 
 Satz: x² = 2 ist unlösbar über *Q* (wurzel 2 ist irrational)
 Beweis: (indirekter Beweis) (es gibt nur wahr und falsch) => ( aus richtigem folgen nur richtige Aussagen) Annahme: (es existiert) x= a/b : x² = 2 | 4/6 = 2/3
-                                                                                                                                    ggt(a,b)=1
+
 x² = a²/b² = 2 => a² = 2 * b² => a² ist gerade
 
 ( was ist eine grade zahl? => (2k) * (2m) = 4km => ist grade weil sie ein vielfaches von 4 ist
