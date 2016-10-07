@@ -11,17 +11,14 @@ Peano-Axiome
 
 5 Axiome, die ein Modell für natürliche Zahlen darstellen und sie auch beschreiben.
 
-#) 0 ist eine natürliche Zahl
-#) jede natürliche Zahl hat genau einen Nachfolger, Zahl n => n'
-#) 0 ist nicht Nachfolger
-#) verschiedene natürliche Zahlen haben verschiedene Nachfolger
-#) Jede Eigenschaft, die die Zahl 0 besitzt un die sich gleichzeitig von n auf n' überträgt haben alle natürlichen Zahlen gleichzeitig.
-
-`Induktions-Axiom`
+1) 0 ist eine natürliche Zahl
+2) jede natürliche Zahl hat genau einen Nachfolger, Zahl n => n'
+3) 0 ist nicht Nachfolger
+4) verschiedene natürliche Zahlen haben verschiedene Nachfolger
+5) Jede Eigenschaft, die die Zahl 0 besitzt und die sich auf den Nachfolger überträgt haben alle natürlichen Zahlen => `Induktions-Axiom`
 
 
-Vollständige Induktion
-======================
+*Beweis:* 
 
 - 0↻ ↯ (3) 0 kann nicht sein eigener Nachfolger sein.
 - 0 -> 1 -> 2 -> … (zweigt ab / verzweigung) ↯ (2) genau ein Nachfolger.

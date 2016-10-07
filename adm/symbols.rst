@@ -19,3 +19,5 @@ https://de.wikipedia.org/wiki/Unicodeblock_Mathematische_Operatoren
 √ - Ctrl-v u 2 2 1 a
 ∃ - Ctrl-v u 2 2 0 3
 ↯ - Ctrl-v u 2 1 a f
+∀ - Ctrl-v u 2 2 0 0
+∧ - Ctrl-v u 2 2 2 7
