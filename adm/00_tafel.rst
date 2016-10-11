@@ -20,7 +20,7 @@ Peano-Axiome
 
 *Beweis:* 
 
-- 0↻ ↯ (3) 0 kann nicht sein eigener Nachfolger sein.
-- 0 -> 1 -> 2 -> … (zweigt ab / verzweigung) ↯ (2) genau ein Nachfolger.
-- 0 -> 1 -> 2 -> … (verläuft zirkulär) ↯ (4) verschiedene Nachfolger.
-- 0 -> 1 -> 2 -> 3 (und paralel) a¹ -> a² -> a³ ↯ (5) es kann nur einen Strang geben.
+- 0↻                                              ↯ (3) 0 kann nicht sein eigener Nachfolger sein.
+- 0 -> 1 -> 2 -> … (zweigt ab / verzweigung)      ↯ (2) genau ein Nachfolger.
+- 0 -> 1 -> 2 -> … (verläuft zirkulär)            ↯ (4) verschiedene Nachfolger.
+- 0 -> 1 -> 2 -> 3 (und paralel) a¹ -> a² -> a³   ↯ (5) es kann nur einen Strang geben.
